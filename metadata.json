@@ -1,0 +1,6 @@
+{
+  "name": "Stock Research Hub",
+  "description": "An app that generates quick links to various stock research platforms (Unusual Whales, X, Perplexity, Yahoo Finance, TradingView, Finviz, StockTwits) based on the provided ticker symbol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
